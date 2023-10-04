@@ -459,9 +459,18 @@ const developers_data = [
         linkedin: 'https://www.linkedin.com/in/sahil-gaikwad-6b8068175/',
         portfolio:'https://sahil-profile.netlify.app/'
     },
+
+    {
+        name: 'Khushi Sihag',
+        image: prakash_rawat,
+        role: 'Full Stack Web Developer',
+        github: 'https://github.com/KiaraSihag',
+        linkedin: 'https://www.linkedin.com/in/khushi-sihag-a67202218/',
+        portfolio:'https://kiarasihag.github.io/My-Portfolio-Website/'
+    },
    
     {
-        name: 'Prakash Singh Rawat',
+        name: 'Devanshu',
         image: prakash_rawat,
         role: 'Full Stack Web Developer',
         github: 'https://github.com/PrakashSinghRawat-git',
@@ -470,12 +479,12 @@ const developers_data = [
     },
    
     {
-        name: 'Prakash Singh Rawat',
+        name: 'Shivani',
         image: prakash_rawat,
         role: 'Full Stack Web Developer',
-        github: 'https://github.com/PrakashSinghRawat-git',
-        linkedin: 'https://www.linkedin.com/in/prakash-singh-rawat-a48b11254',
-        portfolio:'https://prakash-rawat.vercel.app/'
+        github: 'https://github.com/KiaraSihag',
+        linkedin: 'https://www.linkedin.com/in/khushi-sihag-a67202218/',
+        portfolio:'https://kiarasihag.github.io/My-Portfolio-Website/'
     },
    
 ]
